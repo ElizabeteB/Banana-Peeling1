@@ -39,19 +39,12 @@ html {
 }
 
 th, td {
-  border: 1px solid #f9f5c8;
-  border-width: 34px;
+  border: 34px solid #f9f5c8;
   padding: 10px;
   border-radius: 11px;
   height: 402px;
-}
-
-table, th, td{
-  opacity: 80%;
-}
-
-th, td {
   background-color: #EEC045;
+  opacity: 80%;
 }
 
 .leftoverTable{
