@@ -1,4 +1,58 @@
 html {
   height: 100%;
   width: 100%;
+  background-color: #F9F5C8;
+
+  .home {
+    display: flex;
+  }
+  .home {
+    width:20%;
+    float:left;
+  }
+  .parmums {
+    display: flex;
+  }
+  .parmums {
+    width:20%;
+    float:left;
+  }
+    .galerija {
+      display: flex;
+    }
+    .galerija {
+      width:20%;
+      float:left;
+
+    .piedavajumi {
+      display: flex;
+    }
+    .piedavajumi {
+      width:20%;
+      float:left;
+    }
+      .kontakti {
+        display: flex;
+      }
+      .kontakti {
+        width:20%;
+        float:left;
+      }
+
+#banBG {
+transform: rotate(56deg);
+}
+     #banBG {
+        opacity: 0.5;
+      }
+
+table, th, td {
+border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+
+      
+      
 }
