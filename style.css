@@ -35,12 +35,25 @@ html {
 }
 
 #banBG {
-  transform: rotate(56deg);
-  opacity: 0.5;
+  transform: rotate(-56deg);
 }
 
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-  padding: 5px;
+th, td {
+  border: 1px solid #f9f5c8;
+  border-width: 34px;
+  padding: 10px;
+  border-radius: 11px;
+  height: 402px;
+}
+
+table, th, td{
+  opacity: 80%;
+}
+
+th, td {
+  background-color: #EEC045;
+}
+
+.leftoverTable{
+  background-color: #f9f5c8;
 }
