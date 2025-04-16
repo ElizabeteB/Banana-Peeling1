@@ -54,3 +54,14 @@ table, th, td{
   background-color: #f9f5c8;
 }
 
+/*  #navbar {
+  display: flex;
+justify-content: flex-end;
+} */
+
+header{
+  background-color: #F8ED6F;
+  padding: 10px;
+  text-align: right;
+}
+
