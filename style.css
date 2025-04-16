@@ -36,6 +36,14 @@ html {
 
 #banBG {
   transform: rotate(-56deg);
+  position: absolute;
+  z-index: -1;
+  opacity: 0.5;
+}
+
+table {
+  position: relative;
+  z-index: 1;
 }
 
 th, td {
