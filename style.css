@@ -36,10 +36,9 @@ html {
 
 #banBG {
   transform: rotate(-56deg);
-  position: absolute;
-  z-index: -1;
-  opacity: 0.5;
-}
+  /*  position: absolute;
+  z-index: -1;  */
+} 
 
 table {
   position: relative;
@@ -72,4 +71,17 @@ header{
   padding: 10px;
   text-align: right;
 }
+
+#logo{
+  justify-content: flex-end;
+}
+
+h1{
+  font-size: 80px;
+}
+
+#sakums{
+  justify-content: flex-start;
+}
+
 
